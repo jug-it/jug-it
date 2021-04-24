@@ -2,7 +2,7 @@
 - 👀 I’m interested in weather software
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on volunteer weather information
-- 📫 Contact with me on email
+- 📫 Contact with me through my website
 
 <!---
 jug-it/jug-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
