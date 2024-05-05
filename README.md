@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jug-it
 - 👀 I’m interested in weather software
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP and Kotlin
 - 💞️ I’m looking to collaborate on volunteer weather information
 - 📫 Contact with me through my website
 - 📫 Social Media links: https://ru.stackoverflow.com/users/440676/jug-it
